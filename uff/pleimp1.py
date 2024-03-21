@@ -44,5 +44,5 @@ while True:
 
 # Despedida
 print('Execução concluída. Tenha um bom dia!')
-time.sleep(2)
+time.sleep(3)
 
